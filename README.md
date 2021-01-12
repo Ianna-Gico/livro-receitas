@@ -1,6 +1,7 @@
 # Livro de Receitas :woman_cook:
 
-### Olá!!! Seja muito bem-vinde ao meu livro de receitas!!!:wave:
+### Olá!!! Seja muito bem-vindo(a) ao meu livro de receitas!!!:wave:
 
 - Strogonoff de Frango
 - Pavê
+- Torta de Limão
