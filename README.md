@@ -5,3 +5,4 @@
 - Strogonoff de Frango
 - Pavê
 - Torta de Limão
+- Biscoito Amanteigado
